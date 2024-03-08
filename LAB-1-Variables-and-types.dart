@@ -1,7 +1,7 @@
 void main() {
   // Create variables
   String name = "Bereket kelay";
-  int age = 21; // Just an example age
+  int age = 21;
   String favoriteColor = "Blue";
 
   // Print using string interpolation
