@@ -12,10 +12,12 @@
       <excludeFolder url="file://$MODULE_DIR$/fetching_Provider/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/fetching_Provider/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/fetching_Provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/riverpod/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/riverpod/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/riverpod/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
-    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
