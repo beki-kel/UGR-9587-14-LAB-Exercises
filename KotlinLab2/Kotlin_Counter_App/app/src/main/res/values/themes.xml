@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Counter_App_Kotlin" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.CounterAppKotlin" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.CounterKotlinApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
